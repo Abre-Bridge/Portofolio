@@ -1,0 +1,22 @@
+
+img{
+    height: 450px;
+    width: 450px;
+    margin-right: 0px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+    opacity: 85%;
+}
+
+body{
+    background-image: url("../icons/bg_ph.png");
+    background-size: cover;
+     background-repeat: no-repeat; 
+    backdrop-filter: blur(05px);
+}
+
+
+
+
+
